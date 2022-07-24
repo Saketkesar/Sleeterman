@@ -1,6 +1,13 @@
 # Sleeterman
 Best chrome extension that  will protect you from ip grabber link and Harmful cookies help me to contribute my repository to add more harmful links  
 
+<a href="https://github.com/Saketkesar/Sleeterman/archive/refs/heads/main.zip">
+  
+  <img src="https://image.freepik.com/free-icon/download-button_318-32497.jpg" alt="download" /></a>
+
+
+
+
 |****************************How to use *************************************|
 |1. Download it from Sleeterman Github repository                            
 

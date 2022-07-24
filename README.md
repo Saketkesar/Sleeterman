@@ -2,15 +2,29 @@
 Best chrome extension that  will protect you from ip grabber link and Harmful cookies help me to contribute my repository to add more harmful links  
 
 |****************************How to use *************************************|
-|1. Download it from Sleeterman Github repository                            |
-|2. Unzip it                                                                 |
-|3. Now open edge://extensions/ or chrome://extensions/                      |
-|4. Enable devloper mode                                                     |
-|6. Load Unpacked extensions                                                 |
-|7. Now open sleeterman folder                                               |                 
+|1. Download it from Sleeterman Github repository                            
+
+2. Unzip it                                                                 
+
+3. Now open edge://extensions/ or chrome://extensions/                      
+
+4. Enable devloper mode                                                     
+
+6. Load Unpacked extensions                                                 
+
+7. Now open sleeterman folder                                                               
 |****************************************************************************|
 
 
+
+
+</p><p><a href="https://github.com/Saketkesar/Sleeterman/archive/refs/heads/main.zip" style="background-color: #ff5722; border-radius: 10px; border: 1px solid rgb(204, 204, 204); color: white; font-size: 20px; font-weight: bold; padding: 10px; text-decoration: none;" target="_blank">
+Download Now
+</a></p>
+  
+
+
+*************************************************************************************************************
 ![image](https://user-images.githubusercontent.com/93246904/180637368-5278508d-a84d-420d-9538-4507438da794.png)
 
 
